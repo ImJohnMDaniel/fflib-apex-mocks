@@ -10,7 +10,7 @@
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "55.0",
+    "sourceApiVersion": "60.0",
     "name": "reference-fflib-apex-mocks",
     "packageAliases": {
         "reference-fflib-apex-mocks": "0Ho1T000000PAsXSAW"
